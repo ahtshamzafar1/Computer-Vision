@@ -1,5 +1,15 @@
 # ComputerVision
  
+# Basic Open CV
+- Importing videos
+- Default Webcam Live Streaming
+- Basic Operations (Color Conversions, Image Blur, Edge Detector, Dilation, Erosion )
+- Resizing and Cropping
+- Shapes and Texts on image
+
+# Vertical Edge and Line_Detector
+Numpy Based Edge Detector using edge detection kernels. Implemented from scratch using only numpy for processing. Outputs higher number in case of detected edges, and outputs lower number in case no edges (Number itself depends on amount of edges detected). 
+ 
 # Object Detection-YOLO V3
 Object detection is one of the most researched and utilized topic in Applied AI real world problems. 
 
