@@ -7,7 +7,7 @@
 - Resizing and Cropping
 - Shapes and Texts on image
 
-# Vertical Edge and Line_Detector
+# Vertical Edge and Line Detector
 Numpy Based Edge Detector using edge detection kernels. Implemented from scratch using only numpy for processing. Outputs higher number in case of detected edges, and outputs lower number in case no edges (Number itself depends on amount of edges detected). 
  
 # Object Detection-YOLO V3
