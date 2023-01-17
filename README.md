@@ -15,7 +15,7 @@ Object detection is one of the most researched and utilized topic in Applied AI 
 YOLO V3 Provides a DarkNet Backend framework to detect objects in real time, it can go as fast as 30fps of real time object detection and classification, This make YOLO V3 one of the widely used models. 
 The Notebook contains a fully functional YOLOV3 Transfer Learning Model, whcih can be tuned for your specific purpose accordingly. 
 
-# YOLOv7
+# YOLOv7 Detector / Bounded Box Extractor
 YOLO v7 is the latest version of the YOLO object detection system. It is a fast and accurate object detection system that can be used for a variety of applications, including self-driving cars, security systems, and robotics.
 One of the key features of YOLO is its ability to process images and videos in real-time, making it suitable for use in applications where speed is important. YOLO v7 uses a single convolutional neural network (CNN) to detect objects in an image or video, and can predict the class and location of multiple objects in a single pass.
 This code extracts detected object from the video/image and generates cropped output video/image file with only the object and black pixels around it. 
